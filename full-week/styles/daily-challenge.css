@@ -1,0 +1,43 @@
+/* comments */
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: solid 4px #1e3232;
+  margin-top: -132px;
+  box-shadow: 0px 5px 5px rgba(0,0,0,0.2);
+}
+
+#todays-challenge {
+  color: #1e3232;
+  font-weight: bold;
+  font-size: 36px;
+  font-family: 'Orbitron', sans-serif;
+}
+
+#date {
+  color: darkgoldenrod;
+}
+
+main {
+  width: 750px;
+  list-style: none;
+  /* padding: 0px 40px 20px 40px; */
+  padding: 24px;
+  margin: 200px auto 72px auto;
+  text-align: center;
+  border: 4px solid #2f4f4f;
+  border-radius: 8px;
+  background-color: #bdd1ec;
+  box-shadow: 0px 5px 5px rgba(0,0,0,0.2);
+
+}
+
+h1 {
+  font-size: 38px;
+}
+
+
+
+
